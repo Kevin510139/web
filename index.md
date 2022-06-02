@@ -3,6 +3,8 @@
 
 你可以在這個活動學習到資訊安全的基本知識與相關的國際事件，並實際體驗如何入侵與防禦駭客攻擊
 
+![](https://i.imgur.com/WXzdnov.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
