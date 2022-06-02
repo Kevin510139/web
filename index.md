@@ -1,8 +1,7 @@
-## 歡迎光臨
+# 資安體驗營
+## 歡迎光臨，對資安方面有興趣的各位
 
-You can use the [editor on GitHub](https://github.com/Kevin510139/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你可以在這個活動學習到資訊安全的基本知識與相關的國際事件，並實際體驗如何入侵與防禦駭客攻擊
 
 ### Markdown
 
