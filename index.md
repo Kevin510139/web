@@ -12,6 +12,7 @@
 
 
 ### 活動流程
+![messageImage_1654153144637](https://user-images.githubusercontent.com/83684184/171571893-b4459c77-de52-4548-aa20-85c488600081.jpg)
 
 
 ### 報名資訊
