@@ -11,7 +11,8 @@
 ![image](https://user-images.githubusercontent.com/83684184/171565314-5659e0ef-92de-4617-86fd-d22403075a2e.png)
 
 
-## 活動流程   ![messageImage_1654153144637](https://user-images.githubusercontent.com/83684184/171571893-b4459c77-de52-4548-aa20-85c488600081.jpg)
+## 活動流程   
+![messageImage_1654153144637](https://user-images.githubusercontent.com/83684184/171571893-b4459c77-de52-4548-aa20-85c488600081.jpg)
 
 
 
